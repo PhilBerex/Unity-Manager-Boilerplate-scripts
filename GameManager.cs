@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using _Project.Scripts.Application.Core.Singeltons;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
-namespace MechaNest._Project.Scripts.Application.Core.Managers
 {
     
     [Serializable]

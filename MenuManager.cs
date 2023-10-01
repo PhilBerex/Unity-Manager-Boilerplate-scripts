@@ -1,11 +1,9 @@
-﻿using _Project.Scripts.Application.Core.Singeltons;
-using MechaNest._Project.Scripts.Application.Core.Managers;
-using UnityEngine.Events;
+﻿using UnityEngine.Events;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace _Project.Scripts.Application.Core.Managers
+
 {
     
     [System.Serializable] public class EventMenuState : UnityEvent<MenuManager.MenuState, MenuManager.MenuState> {}

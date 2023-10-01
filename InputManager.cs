@@ -1,8 +1,7 @@
-﻿using _Project.Scripts.Application.Core.Singeltons;
-using System;
+﻿using System;
 using UnityEngine;
 
-namespace _Project.Scripts.Application.Core.Managers
+
 {
     public class InputManager : Singelton<InputManager>
     {

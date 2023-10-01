@@ -1,8 +1,6 @@
-﻿using _Project.Scripts.Application.Core.Singeltons;
-using MechaNest._Project.Scripts.Application.Core.Managers;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace _Project.Scripts.Application.Core.Managers
+
 {
     public class SceneManager : Singelton<SceneManager>
     {

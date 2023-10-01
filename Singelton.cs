@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace _Project.Scripts.Application.Core.Singeltons
+
 {
     public class Singelton<T> : MonoBehaviour where T : Singelton<T>
     {
